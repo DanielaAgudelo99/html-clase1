@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: aqua;
+}
+
+
+header{
+    width: 100%;
+    background-color: antiquewhite; 
+
+}
+
+nav{
+   margin: 5px;
+}
+
+nav li{
+    display: inline;
+}
+
+.logo{
+    width: 80px;
+    margin: 20px;
+    display: inline;
+    background-color: aquamarine;
+}
